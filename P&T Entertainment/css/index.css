@@ -1,0 +1,42 @@
+body{
+    border: 2px solid green;
+    
+}
+
+main{
+    border-style: solid;
+}
+
+.help-menu il{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 5px 10px;
+    color: white;
+    background-color: black;
+}
+
+#nav-menu{
+    position: fixed;
+}
+
+.nav-menu il{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 5px 10px;
+    height: 5px;
+    width: 10px;
+}
+
+.main-carousel{
+    border: 2px dotted black;
+}
+
+.coming-soon{
+    
+}
+
+h3{
+    color: aqua;
+    border-style: solid;
+}
+
